@@ -5,7 +5,7 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Get Api Key](Get-API-Key)
+- [Get Api Key](#Get-API-Key)
 - [Usage](#usage)
 - [Components](#components)
 - [Pages](#pages)
