@@ -16,7 +16,6 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
 - **Real-Time Updates**: Stay informed with the latest news articles.
 - **Category Browsing**: Explore news by categories.
 - **Responsive Design**: Enjoy a seamless experience across all devices.
-- **Dark Mode**: Toggle between light and dark themes.
 
 ## Installation
 
@@ -44,13 +43,12 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
 - Open your browser and navigate to `http://localhost:3000`.
 - Browse through the latest news articles.
 - Use the category filter to find news on specific topics.
-- Toggle between light and dark modes using the switch in the navigation bar.
 
 ## Components
 
 ### Navbar
 Located in `src/components/Navbar.js`
-- Navigate between different sections and toggle dark mode.
+- Navigate between different sections.
 
 ### NewsList
 Located in `src/components/NewsList.js`
@@ -87,6 +85,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Website
 #### Want to see News Corner in action? Check out our live demo here:
 
-> 🚀 **[Experience News Corner Live](https://your-live-demo-link.com)** 🚀
+>[!Tip]
+> 🚀 **[Experience News Corner Live](https://the-zoomeee.github.io/News-Corner/)** 🚀
 
 Explore the full functionality of News Corner and stay updated with the latest news!
