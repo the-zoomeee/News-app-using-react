@@ -1,10 +1,11 @@
 # News Corner
 
-Welcome to **News Corner**, your go-to application for the latest news updates from around the world. Built with React, News Corner offers a sleek, responsive design and an intuitive interface to keep you informed and engaged.
+Welcome to **News Corner**, your go-to application for the latest news updates from around the world. Built with React, News Corner offers a sleek, responsive design,using API (newsapi.org) and an intuitive interface to keep you informed and engaged.
 
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
+- [Get Api Key](Get-API-Key)
 - [Usage](#usage)
 - [Components](#components)
 - [Pages](#pages)
@@ -38,6 +39,12 @@ Welcome to **News Corner**, your go-to application for the latest news updates f
     ```sh
     npm start
     ```
+
+## Get API Key
+- Visit [newsapi.org](https://newsapi.org/)
+- Login and Copy the API key.
+- open the *".env"* file.
+- Replace the 'Your_API_Key' to the copied API key.
 
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
