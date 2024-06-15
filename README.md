@@ -84,7 +84,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Demo
 #### Home
-![Screenshot (2097)](https://github.com/the-zoomeee/News-Corner-using-react/assets/154297263/cd851136-2a1b-4024-812d-b1ef12396a15)
+![home](https://github.com/the-zoomeee/News-Corner-using-react/assets/154297263/8a313c2a-da08-40b0-991f-249aed41dadb)
 
 ## Website
 #### Want to see News Corner in action? Check out our live demo here:
